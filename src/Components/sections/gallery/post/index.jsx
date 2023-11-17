@@ -30,8 +30,8 @@ function Post({src, ticket1, ticket2, price, title, rooms, baths, m2}) {
           <h4 className='price'>{price}</h4>
           <h3 className='address'>{title}</h3>
           <div className='characteristics'>
-            <div>{rooms}</div>
-            <div>{baths}</div>
+            <div>{rooms}Cuartos</div>
+            <div>{baths}Baños</div>
             <div>{m2}m2</div>
           </div>
         </section>

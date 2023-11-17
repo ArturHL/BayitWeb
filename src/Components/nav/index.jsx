@@ -7,7 +7,7 @@ function Navbar() {
     <>
       <nav className='navbar'>
         <div className='sectionLogo'>
-          <img src="/src/assets/image-removebg-preview.png" alt="" />
+          <img src="/assets/image-removebg-preview.png" alt="" />
           <h2>Bayit</h2>
         </div>
         <RiMenu3Fill className='iconMenu'/>
