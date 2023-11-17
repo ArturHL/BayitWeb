@@ -1,0 +1,15 @@
+.hero-section{
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(180deg,#151623,transparent 40%),linear-gradient(180deg,transparent,#151623 95%),linear-gradient(180deg,rgba(21,22,35,.25),rgba(21,22,35,.25)),url("https://assets.website-files.com/5ee8e894dfcfd4765c67b3cc/5eee58d2299cb92534e6a949_id-interiors-VWt1BBQwwtU-unsplash%20(1).jpg");
+  background-position: 0 0,0 0,0 0,50% 50%;
+  background-size: auto,auto,auto,cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.hero-section h1 {
+  color: var(--font-color-1);
+}
