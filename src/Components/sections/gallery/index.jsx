@@ -4,7 +4,7 @@ import Post from './post/index'
 function GallerySection() {
   const post = [
     {
-      src: "https://lh3.googleusercontent.com/t36DY6PH7c4H6v9FjRbzX8hPhDuvU6Pu-cqRnvgdv6MvJXeSCOesvq9YwaSr1xM9pIhb59tpz1wp-DmV41075ZwuM-ZAe6_0bympMZ_IpYUU8AoCm0pN06Pw4NYodLtxXw=w1280",
+      src: "https://propiedadescom.s3.amazonaws.com/files/original/f04558ae-1dc9-11ee-80b8-a2ed4370d863.jpeg",
       ticket1: "En Renta",
       ticket2: "Disponible",
       price: "$15,000.00",
